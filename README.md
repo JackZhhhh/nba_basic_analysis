@@ -52,7 +52,7 @@ Offensive edge vs MIA, but defense is a concern.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/nba-matchup-analyzer.git
+git clone https://github.com/JackZhhhh/nba-matchup-analyzer.git
 cd nba-matchup-analyzer
 
 # Install dependencies
